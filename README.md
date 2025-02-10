@@ -1,7 +1,7 @@
 # Three-JS-Space Project
 
 This is a 3D project, which was implemented by a cross-browser JavaScript library and application programming interface - Three.js. Main object is a Sphere, which 
-spinning around its axis.
+spinning around its axis, when user clicks Sphere, it bounces up.
 
 The code is made with: React, Three.js, react-three/drei, react-three/fiber.
 
